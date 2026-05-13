@@ -186,9 +186,12 @@ Power BI dashboard — two pages:
 - **Page 1:** Sales Performance (Monthly Revenue, AOV Trend, Revenue by Category, Revenue by State)
 - **Page 2:** Cancellation & Revenue Loss (Cancellation Rate, Cancelled Orders Trend, Revenue Lost by Category)
 
-*Screenshot previews below*
+<img width="1164" height="656" alt="image" src="https://github.com/user-attachments/assets/8f07fa33-3e7f-472b-b511-879d999c493b" />
 
----
+<img width="1165" height="659" alt="image" src="https://github.com/user-attachments/assets/8a413f85-6275-4bf5-9c80-0f9aece7d5b2" />
+
+
+--
 
 ## Files
 
